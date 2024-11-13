@@ -8,13 +8,18 @@ The method of [Raycasting](https://fr.wikipedia.org/wiki/Raycasting) must be use
 
 Unfortunately, sharing the exercices subjects is forbidden by the school, but you may still be able to find these on the internet :)
 
+![alt text](https://jumpshare.com/s/N7kPQA9SLHwWnsrgIIIC)
+
 # Classic Version
 
-Possibilty to walk around the map without going through the walls
+Possibilty to walk around the map without going through the walls.
 
 # Bonus Version
 
-Includes a minimap, animated walls, possibiliy to open/close doors
+Includes a minimap, animated walls, possibiliy to open/close doors, and look right/left with mouse.
+
+- Press O to open/close doors.
+- Press M to display/hide minimap.
 
 ## Intructions for testing program
 
