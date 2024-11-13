@@ -6,7 +6,7 @@
 /*   By: tnicolau <tnicolau@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/05/16 10:13:02 by nsouchal          #+#    #+#             */
-/*   Updated: 2024/06/07 15:01:59 by tnicolau         ###   ########.fr       */
+/*   Updated: 2024/11/13 13:29:16 by tnicolau         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -42,11 +42,11 @@
 # endif
 
 # ifndef WIDTH
-#  define WIDTH 1920
+#  define WIDTH 1080
 # endif
 
 # ifndef HEIGHT
-#  define HEIGHT 1080
+#  define HEIGHT 720
 # endif
 
 # ifndef BUFFER_SIZE
