@@ -8,7 +8,7 @@ The method of [Raycasting](https://fr.wikipedia.org/wiki/Raycasting) must be use
 
 Unfortunately, sharing the exercices subjects is forbidden by the school, but you may still be able to find these on the internet :)
 
-![](https://s11.gifyu.com/images/SyZfx.gif)
+![](gif.gif)
 
 # Classic Version
 
