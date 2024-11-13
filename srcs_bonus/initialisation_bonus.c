@@ -6,7 +6,7 @@
 /*   By: tnicolau <tnicolau@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/05/16 10:35:48 by nsouchal          #+#    #+#             */
-/*   Updated: 2024/06/06 10:06:41 by tnicolau         ###   ########.fr       */
+/*   Updated: 2024/11/13 13:23:58 by tnicolau         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -15,8 +15,8 @@
 void	init_data(t_data *data)
 {
 	init_map(data);
-	data->move_speed = 0.15;
-	data->rot_speed = 0.05;
+	data->move_speed = 0.05;
+	data->rot_speed = 0.02;
 	data->a_move = false;
 	data->w_move = false;
 	data->s_move = false;
